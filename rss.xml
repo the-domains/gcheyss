@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[GCheyss]]></title>
         <description><![CDATA[GCheyss]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/gcheyss/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 12:54:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 29 Apr 2016 04:55:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/gcheyss/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>GEORGES</p>]]></description>
+            <link>https://thegrid.ai/gcheyss/a7c7bc34-105f-474f-8e57-250375e24209/index.html</link>
+            <guid isPermaLink="false">a7c7bc34-105f-474f-8e57-250375e24209</guid>
+            <pubDate>Fri, 29 Apr 2016 04:55:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[la main]]></title>
-            <description><![CDATA[<article><h1>la main</h1><p>Il est un endroit en littérature où seul le style et le mot comptent, </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/72e8728cda2ad8587548b6642b6322595a018653.jpg"></article>]]></description>
-            <link>undefinedla-main/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ae46f77b-5d70-491a-bb22-37a95b97ba8a.jpg">]]></description>
+            <link>https://thegrid.ai/gcheyss/la-main/index.html</link>
             <guid isPermaLink="false">e8abd924-e4f1-445d-b503-3a3040d1134c</guid>
             <pubDate>Fri, 04 Mar 2016 12:53:14 GMT</pubDate>
         </item>
